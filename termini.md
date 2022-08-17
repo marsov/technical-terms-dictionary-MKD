@@ -7,7 +7,8 @@ Polycyclic aromatic hydrocarbons (PAHs)  | Air Quality in Europe Report 2020  | 
 Оxidised volatile organic compounds (VOCs) | Air Quality in Europe Report 2020 | Оксидирани лесно испарливи органски соединенија | # |
 Random Forests | | случајни шуми |  Препознавање на комплексни активности при секоjдневно живеење со неинвазивни сензори во паметни домови | 
  Artificial Neural Networks (ANN) with Real-Time Correction (RTC) | | Невронски мрежи со корекција во реално време | |
-
+Empirical mode decomposition (EMD) | | | |
+Gradient Boosting | | | |
 
 
 
