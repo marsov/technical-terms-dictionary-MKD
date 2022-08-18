@@ -9,6 +9,9 @@ Random Forests | | случајни шуми |  Препознавање на к
  Artificial Neural Networks (ANN) with Real-Time Correction (RTC) | | Невронски мрежи со корекција во реално време | |
 Empirical mode decomposition (EMD) | | | |
 Gradient Boosting | | | |
+K-neighbors | | | |
+CART decision trees | | Карт одлучувачки стебла | *? | 
+Long short-term memory NN | | Невронски мрежи со долготрајна краткорочна меморија | *? | 
 
 
 
