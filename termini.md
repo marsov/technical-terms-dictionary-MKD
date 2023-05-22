@@ -15,12 +15,12 @@ CART decision trees | | Карт одлучувачки стебла | *? |
 Long short-term memory NN | | Невронски мрежи со долготрајна краткорочна меморија | *? | 
 univariate time series | | уни-варијантни временски серии | |
 multivariate series | | | | 
-Overfitting | | | | 
+Overfitting | | претренираност| [2]| 
 
 
 
 # Референци
 
-[Air Quality in Europe Report 2020](https://www.eea.europa.eu//publications/air-quality-in-europe-2020-report)
+1. [Air Quality in Europe Report 2020](https://www.eea.europa.eu//publications/air-quality-in-europe-2020-report)
 
-Препознавање на комплексни активности при секоjдневно живеење со неинвазивни сензориво паметни домови - Александра Здравевска
+2. Препознавање на комплексни активности при секоjдневно живеење со неинвазивни сензориво паметни домови - Александра Здравевска
