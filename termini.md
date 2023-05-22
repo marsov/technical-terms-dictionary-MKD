@@ -13,6 +13,9 @@ Gradient Boosting | | | |
 K-neighbors | | | |
 CART decision trees | | Карт одлучувачки стебла | *? | 
 Long short-term memory NN | | Невронски мрежи со долготрајна краткорочна меморија | *? | 
+univariate time series | | уни-варијантни временски серии | |
+multivariate series | | | | 
+Overfitting | | | | 
 
 
 
